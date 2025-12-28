@@ -1,4 +1,4 @@
-# KVM - QEMU Linux Setup Script
+# KVM - QEMU - Cockpit Linux Setup Script
 
 ![Bash](https://img.shields.io/badge/Bash-5.0+-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-Virtualization-FF6600?style=flat-square)
@@ -24,7 +24,7 @@ Automated script for installing and optimizing KVM/QEMU virtualization on Debian
 
 ```bash
 git clone https://github.com/syrusnfs/kvm-setup.git
-cd kvm-manager
+cd kvm-setup
 chmod +x kvm-setup.sh
 sudo ./kvm-setup.sh
 
