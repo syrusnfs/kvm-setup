@@ -1,4 +1,4 @@
-# KVM-Manager
+# KVM - QEMU Linux Setup Script
 
 ![Bash](https://img.shields.io/badge/Bash-5.0+-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-Virtualization-FF6600?style=flat-square)
@@ -23,10 +23,10 @@ Automated script for installing and optimizing KVM/QEMU virtualization on Debian
 ## Installation
 
 ```bash
-git clone https://github.com/syrusnfs/kvm-manager.git
+git clone https://github.com/syrusnfs/kvm-setup.git
 cd kvm-manager
-chmod +x kvm-manager.sh
-sudo ./kvm-manager.sh
+chmod +x kvm-setup.sh
+sudo ./kvm-setup.sh
 
 ```
 
@@ -91,6 +91,10 @@ sudo systemctl enable --now spice-vdagent qemu-guest-agent
 **Virtualization not detected**: Enable VT-x/AMD-V in BIOS settings.
 
 **Permission denied**: Logout and login again, or run `newgrp libvirt`.
+
+## Autor
+
+**Syrus | 2026** 
 
 ## License
 
