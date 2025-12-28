@@ -4,7 +4,7 @@
 ![KVM](https://img.shields.io/badge/KVM-Virtualization-FF6600?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-Automated script for installing and optimizing KVM/QEMU/Cockpi Project virtualization on Debian-based Linux distributions.
+Automated script for installing and optimizing KVM/QEMU/Cockpit Project virtualization on Debian-based Linux distributions.
 
 ## Features
 
