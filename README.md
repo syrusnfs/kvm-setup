@@ -1,10 +1,10 @@
-# KVM - QEMU - Cockpit Linux Setup Script
+# KVM - QEMU - COCKPIT Setup Script
 
 ![Bash](https://img.shields.io/badge/Bash-5.0+-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-Virtualization-FF6600?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-Automated script for installing and optimizing KVM/QEMU virtualization on Debian-based Linux distributions.
+Automated script for installing and optimizing KVM/QEMU/Cockpi Project virtualization on Debian-based Linux distributions.
 
 ## Features
 
