@@ -79,7 +79,7 @@ Configuration file created: `/etc/sysctl.d/99-kvm.conf`
 | Network | VirtIO (NAT or Macvtap) |
 | Video | Virtio + SPICE + 3D |
 
-### Guest VM Setup - virtio tools
+### Guest VM Setup - virtio tools and agents
 
 ```bash
 VM Linux   - sudo apt install spice-vdagent qemu-guest-agent
