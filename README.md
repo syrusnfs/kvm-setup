@@ -23,11 +23,7 @@ Automated script for installing and optimizing KVM/QEMU/Cockpit Project virtuali
 ## Installation
 
 ```bash
-git clone https://github.com/syrusnfs/kvm-setup.git
-cd kvm-setup
-chmod +x kvm-setup.sh
-sudo ./kvm-setup.sh
-
+git clone https://github.com/syrusnfs/kvm-setup.git && cd kvm-setup && chmod +x kvm-setup.sh && sudo ./kvm-setup.sh
 ```
 
 ## Usage
