@@ -12,7 +12,7 @@ Automated script for installing and optimizing KVM/QEMU/Cockpit Project virtuali
 - CPU performance tuning, hugepages, and IRQ balancing
 - Optional Cockpit web interface for VM management
 - Clean uninstallation option
-- Multi-distro support: Debian, Ubuntu, Kali, Parrot
+- Debian support: Ubuntu, Kali, Parrot, etc
 
 ## Requirements
 
