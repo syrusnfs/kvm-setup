@@ -18,7 +18,7 @@ Automated script for installing and optimizing KVM/QEMU/Cockpit Project virtuali
 
 - **CPU**: Intel VT-x or AMD-V enabled in BIOS
 - **RAM**: 4GB minimum (8GB+ recommended)
-- 
+  
 ## Installation
 
 ```bash
