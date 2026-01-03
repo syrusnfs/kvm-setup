@@ -79,11 +79,11 @@ Configuration file created: `/etc/sysctl.d/99-kvm.conf`
 | Network | VirtIO (NAT or Macvtap) |
 | Video | Virtio + SPICE + 3D |
 
-### Guest VM Setup
+### Guest VM Setup - virtio tools
 
 ```bash
-sudo apt install spice-vdagent qemu-guest-agent
-sudo systemctl enable --now spice-vdagent qemu-guest-agent
+VM Linux   - sudo apt install spice-vdagent qemu-guest-agent
+VM Windows - wget https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/latest-virtio/virtio-win.iso
 ```
 
 ## Troubleshooting
